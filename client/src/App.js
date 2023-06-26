@@ -12,7 +12,7 @@ import Dynamic from "./components/Dynamic.js";
 function App() {
 
   return (
-    <div className="App">
+    <div className="App" id="ss">
 
 
       <BrowserRouter>
